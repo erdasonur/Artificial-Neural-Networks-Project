@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+C:\Users\onure\source\repos\ArtificialNeuralNetworks\ArtificialNeuralNetworks\Points.h(35,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\onure\source\repos\ArtificialNeuralNetworks\ArtificialNeuralNetworks\MyForm.h(378,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\onure\source\repos\ArtificialNeuralNetworks\ArtificialNeuralNetworks\MyForm.h(379,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\onure\source\repos\ArtificialNeuralNetworks\ArtificialNeuralNetworks\MyForm.h(384,98): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\onure\source\repos\ArtificialNeuralNetworks\ArtificialNeuralNetworks\MyForm.h(384,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\onure\source\repos\ArtificialNeuralNetworks\ArtificialNeuralNetworks\MyForm.h(387,99): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\onure\source\repos\ArtificialNeuralNetworks\ArtificialNeuralNetworks\MyForm.h(387,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\onure\source\repos\ArtificialNeuralNetworks\ArtificialNeuralNetworks\MyForm.h(395,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\onure\source\repos\ArtificialNeuralNetworks\ArtificialNeuralNetworks\MyForm.h(394,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\onure\source\repos\ArtificialNeuralNetworks\ArtificialNeuralNetworks\MyForm.h(398,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\onure\source\repos\ArtificialNeuralNetworks\ArtificialNeuralNetworks\MyForm.h(402,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\onure\source\repos\ArtificialNeuralNetworks\ArtificialNeuralNetworks\MyForm.h(530,7): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ArtificialNeuralNetworks.vcxproj -> C:\Users\onure\source\repos\ArtificialNeuralNetworks\Debug\ArtificialNeuralNetworks.exe
